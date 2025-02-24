@@ -122,8 +122,8 @@ This tool is for educational and research purposes only. Users are responsible f
 
 ## 📞 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Telegram: [@yourusername](https://t.me/yourusername)
+- GitHub: [@Da7rkx0](https://github.com/Da7rkx0)
+- Telegram: [@Da7rkx0](https://t.me/Da7rkx0)
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Da7rkx0]
