@@ -99,7 +99,7 @@ The tool can be configured through the following files:
 - `build.py`: Build configuration
 
 ##  TeleC2rypt Pro Edition - Advanced Features
-Pro Features:  [TeleC2rypt Pro]([https://github.com/Da7rkx0](https://github.com/Da7rkx0/TeleC2rypt/blob/main/TeleC2rypt%20Pro%20Edition%20-%20Advanced%20Features.md))
+Pro Features:  [TeleC2rypt Pro](https://github.com/Da7rkx0/TeleC2rypt/blob/main/TeleC2rypt%20Pro%20Edition%20-%20Advanced%20Features.md)
 
 ## 🤝 Contributing
 
