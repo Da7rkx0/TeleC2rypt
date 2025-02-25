@@ -6,6 +6,10 @@
 
 TeleC2rypt is a powerful Windows remote administration tool that operates through Telegram, providing secure and stealthy system control capabilities.
 
+##  Video
+https://github.com/user-attachments/assets/80f03e36-67a9-4dcd-b64e-0c1bde610c3a
+
+
 ## 🚀 Features
 
 ### 💻 System Control
